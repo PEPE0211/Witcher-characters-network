@@ -7,6 +7,8 @@ Welcome to the Witcher Universe Character Network Analysis repository! In this p
 
 Key Features:
 
+Web Scraping: We used wiki fandom site to extract the names of all the characters in all the books
+
 Character Interaction Network: We've created a network representation of characters from the Witcher books, capturing their interactions, associations, and affiliations.
 
 Graph Algorithms: Utilizing Python's powerful network analysis libraries, we apply graph algorithms to uncover intriguing insights about the Witcher universe.
@@ -25,9 +27,18 @@ Join our community of Witcher enthusiasts, data scientists, and developers to co
 Dependencies:
 
 Python
-NetworkX
-Matplotlib
-Jupyter Notebook
-Contributions:
 
-We welcome contributions from Witcher fans and data enthusiasts alike! Whether you're interested in adding more character data, improving visualizations, or conducting additional analyses, your input is invaluable in expanding our understanding of the Witcher universe.
+NetworkX
+
+spacy
+
+selenium
+
+Pyvis
+
+Matplotlib
+
+Jupyter lab
+
+
+
